@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>872545274761-h6iidig99mmpfs9lnalpn48rgq4vqskf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.872545274761-h6iidig99mmpfs9lnalpn48rgq4vqskf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>872545274761-vki8egv0c901q3s1kgt7i6ed9csrt75p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_tVlf3VOKGCJ5YHEy4TjGaIpy1cqDszU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>872545274761</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.frankdroid7.learnComputerStudies</string>
+	<key>PROJECT_ID</key>
+	<string>learncomputerstudies</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learncomputerstudies.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:872545274761:ios:df31dd551f1039a0edaf58</string>
+</dict>
+</plist>

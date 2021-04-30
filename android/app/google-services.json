@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "872545274761",
+    "project_id": "learncomputerstudies",
+    "storage_bucket": "learncomputerstudies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872545274761:android:37e57fd99395408dedaf58",
+        "android_client_info": {
+          "package_name": "com.frankdroid7.computer_studies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872545274761-vki8egv0c901q3s1kgt7i6ed9csrt75p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frankdroid7.computer_studies",
+            "certificate_hash": "5a67de8ef956ddc9b39ef76f49b15c6edf81311d"
+          }
+        },
+        {
+          "client_id": "872545274761-g0a5dd6qj8p4ipvp57qd06atdogm0btl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4-fQSMmgD_uxGeeu3nZhKA6IC4o6f_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872545274761-g0a5dd6qj8p4ipvp57qd06atdogm0btl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872545274761:android:2097256078337152edaf58",
+        "android_client_info": {
+          "package_name": "com.frankdroid7.learn_computer_studies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872545274761-g0a5dd6qj8p4ipvp57qd06atdogm0btl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4-fQSMmgD_uxGeeu3nZhKA6IC4o6f_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872545274761-g0a5dd6qj8p4ipvp57qd06atdogm0btl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
